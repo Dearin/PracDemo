@@ -1,0 +1,7 @@
+# Created by pytest automatically.
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build

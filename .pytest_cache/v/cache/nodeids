@@ -1,0 +1,7 @@
+[
+  "test_mock.py::TestMock::test_add",
+  "test_mock_func_do.py::TestSubClass::test_subadd",
+  "test_mock_decorator.py::TestProducer::test_add",
+  "test_mock_decorator.py::TestProducer::test_multiple",
+  "test_mock_decorator.py::TestProducer::test_effect"
+]
